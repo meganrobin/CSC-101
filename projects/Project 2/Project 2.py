@@ -25,8 +25,8 @@ monsters = {
 "\33[33mMinotaur\33[37m": "int_hammer"
 }
 
-def monster_encounter(): #Picks a random monster, tells the player which monster has appeared, and calls the player_input function#
-    current_monster = "" #A holding variable for a random monster from the four monster options#
+def monster_encounter(): #picks a random monster, tells the player which monster has appeared, and calls the player_input function#
+    current_monster = "" #holding variable for a random monster from the 4 monster options#
     random_index = random.randint(0,3) #sets random_index equal to a random int between 0 and 3#
     for i, key in enumerate(monsters.keys()): #finds the key in monsters[] with the same index as the number random_index was set to#
         if i == random_index:
@@ -74,9 +74,9 @@ def player_input(monster):
         print("Please type the number 1, 2, 3, or 4.") #notifies the player and recalls player_input if the player types something other than the number 1, 2, 3, or 4#
         player_input(monster)
 
-def outcome(monster,weapon_value): #Called when the player enters the number of the weapon they want to use# #Checks if the player has enough usages to defeat the monster, and if the weapon they chose matches the monster#
+def outcome(monster,weapon_value): #called when the player enters the number of the weapon they want to use# #Checks if the player has enough usages to defeat the monster, and if the weapon they chose matches the monster#
     for key in monsters.keys():
-        if key == monster: #Finds the correct monster in the dictionary#
+        if key == monster: #finds the correct monster in the dictionary#
             if monsters[key] == weapon_value: #checks if it's the correct weapon for the monster, and prints the winning message if it is#
                 print(f"\033[92mYou defeated the {monster} with {weapon_value[4:]}! Press enter to continue on your journey.\33[37m")
                 input()
@@ -102,4 +102,4 @@ def outcome(monster,weapon_value): #Called when the player enters the number of 
                 print(f"\33[31mThe {monster} \33[31mis immune to {weapon_value[4:]}. You were defeated.\33[37m")
                 print(f"You defeated \33[34m{total_monsters}\33[37m total monsters. Nice work!")
 
-monster_encounter()#Called to start up the very first monster encounter#
+monster_encounter()#called to start up the very first monster encounter#

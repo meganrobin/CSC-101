@@ -1,0 +1,402 @@
+[
+    {
+        "Student Name": "Sarah Hall",
+        "Age": 17,
+        "Grade": "C",
+        "School": "Ross PLC",
+        "Enrollment Date": "2022-08-01",
+        "Attendance": "82%"
+    },
+    {
+        "Student Name": "Michael Walker",
+        "Age": 11,
+        "Grade": "B",
+        "School": "Cervantes Ltd",
+        "Enrollment Date": "2021-07-24",
+        "Attendance": "83%"
+    },
+    {
+        "Student Name": "David Whitney",
+        "Age": 15,
+        "Grade": "A",
+        "School": "Brown, Cherry and Coleman",
+        "Enrollment Date": "2020-07-29",
+        "Attendance": "94%"
+    },
+    {
+        "Student Name": "Russell Abbott",
+        "Age": 18,
+        "Grade": "C",
+        "School": "Jenkins-Morton",
+        "Enrollment Date": "2023-02-01",
+        "Attendance": "98%"
+    },
+    {
+        "Student Name": "Heather Vasquez",
+        "Age": 10,
+        "Grade": "F",
+        "School": "Fuller-Campos",
+        "Enrollment Date": "2020-11-09",
+        "Attendance": "99%"
+    },
+    {
+        "Student Name": "Richard Pope",
+        "Age": 11,
+        "Grade": "B",
+        "School": "Davis, Mercado and Santana",
+        "Enrollment Date": "2023-11-05",
+        "Attendance": "89%"
+    },
+    {
+        "Student Name": "Susan Davis",
+        "Age": 11,
+        "Grade": "C",
+        "School": "Phillips, Brown and Pena",
+        "Enrollment Date": "2021-06-04",
+        "Attendance": "88%"
+    },
+    {
+        "Student Name": "Kathryn Navarro",
+        "Age": 14,
+        "Grade": "D",
+        "School": "Larsen-Brown",
+        "Enrollment Date": "2023-06-03",
+        "Attendance": "100%"
+    },
+    {
+        "Student Name": "Amanda Reid",
+        "Age": 9,
+        "Grade": "F",
+        "School": "Noble Group",
+        "Enrollment Date": "2022-01-29",
+        "Attendance": "97%"
+    },
+    {
+        "Student Name": "Thomas Chavez",
+        "Age": 8,
+        "Grade": "D",
+        "School": "Ward Inc",
+        "Enrollment Date": "2021-08-09",
+        "Attendance": "91%"
+    },
+    {
+        "Student Name": "Alexis Perry",
+        "Age": 14,
+        "Grade": "C",
+        "School": "Miller Group",
+        "Enrollment Date": "2022-08-23",
+        "Attendance": "99%"
+    },
+    {
+        "Student Name": "Jacob Johnson",
+        "Age": 11,
+        "Grade": "F",
+        "School": "Davis-Burch",
+        "Enrollment Date": "2020-03-13",
+        "Attendance": "90%"
+    },
+    {
+        "Student Name": "Lisa Gonzales",
+        "Age": 6,
+        "Grade": "F",
+        "School": "Harvey Ltd",
+        "Enrollment Date": "2021-11-27",
+        "Attendance": "92%"
+    },
+    {
+        "Student Name": "Richard Sanchez",
+        "Age": 11,
+        "Grade": "C",
+        "School": "Wagner, Hayes and Watkins",
+        "Enrollment Date": "2023-06-20",
+        "Attendance": "85%"
+    },
+    {
+        "Student Name": "Alyssa Yates",
+        "Age": 15,
+        "Grade": "D",
+        "School": "Ramirez LLC",
+        "Enrollment Date": "2022-10-14",
+        "Attendance": "84%"
+    },
+    {
+        "Student Name": "Dustin Ortiz",
+        "Age": 15,
+        "Grade": "D",
+        "School": "Morris-Hawkins",
+        "Enrollment Date": "2020-12-31",
+        "Attendance": "94%"
+    },
+    {
+        "Student Name": "Justin Warner",
+        "Age": 16,
+        "Grade": "A",
+        "School": "Curtis-Williams",
+        "Enrollment Date": "2023-09-28",
+        "Attendance": "99%"
+    },
+    {
+        "Student Name": "David Taylor",
+        "Age": 8,
+        "Grade": "A",
+        "School": "Sims-Ortega",
+        "Enrollment Date": "2022-01-24",
+        "Attendance": "92%"
+    },
+    {
+        "Student Name": "Laura Adams",
+        "Age": 18,
+        "Grade": "A",
+        "School": "White, Rogers and Wilson",
+        "Enrollment Date": "2021-10-16",
+        "Attendance": "90%"
+    },
+    {
+        "Student Name": "Gregory Riley",
+        "Age": 10,
+        "Grade": "F",
+        "School": "Jones PLC",
+        "Enrollment Date": "2021-11-24",
+        "Attendance": "80%"
+    },
+    {
+        "Student Name": "Joseph Morales",
+        "Age": 6,
+        "Grade": "B",
+        "School": "Wallace, Adams and Lam",
+        "Enrollment Date": "2023-03-13",
+        "Attendance": "80%"
+    },
+    {
+        "Student Name": "Matthew Hoffman",
+        "Age": 12,
+        "Grade": "B",
+        "School": "Steele-Sanchez",
+        "Enrollment Date": "2022-05-29",
+        "Attendance": "96%"
+    },
+    {
+        "Student Name": "Joanna Hammond",
+        "Age": 12,
+        "Grade": "C",
+        "School": "Calderon-Mullins",
+        "Enrollment Date": "2021-09-30",
+        "Attendance": "85%"
+    },
+    {
+        "Student Name": "Ashley Martinez",
+        "Age": 10,
+        "Grade": "B",
+        "School": "Turner PLC",
+        "Enrollment Date": "2022-06-22",
+        "Attendance": "86%"
+    },
+    {
+        "Student Name": "Charles Porter",
+        "Age": 14,
+        "Grade": "F",
+        "School": "Singleton Ltd",
+        "Enrollment Date": "2023-08-13",
+        "Attendance": "91%"
+    },
+    {
+        "Student Name": "Bryan Jackson",
+        "Age": 12,
+        "Grade": "F",
+        "School": "Nichols-Williams",
+        "Enrollment Date": "2022-07-11",
+        "Attendance": "91%"
+    },
+    {
+        "Student Name": "Tyler Martinez",
+        "Age": 16,
+        "Grade": "A",
+        "School": "Martinez and Sons",
+        "Enrollment Date": "2023-08-17",
+        "Attendance": "83%"
+    },
+    {
+        "Student Name": "Lacey Thomas",
+        "Age": 15,
+        "Grade": "B",
+        "School": "Thomas LLC",
+        "Enrollment Date": "2023-06-09",
+        "Attendance": "91%"
+    },
+    {
+        "Student Name": "Aaron Andrews",
+        "Age": 17,
+        "Grade": "A",
+        "School": "Walker Inc",
+        "Enrollment Date": "2022-10-31",
+        "Attendance": "99%"
+    },
+    {
+        "Student Name": "David Rice",
+        "Age": 8,
+        "Grade": "F",
+        "School": "Erickson PLC",
+        "Enrollment Date": "2023-02-18",
+        "Attendance": "87%"
+    },
+    {
+        "Student Name": "Kent Evans",
+        "Age": 13,
+        "Grade": "A",
+        "School": "Fowler, Krause and Hoffman",
+        "Enrollment Date": "2021-09-09",
+        "Attendance": "80%"
+    },
+    {
+        "Student Name": "Amanda Moore",
+        "Age": 14,
+        "Grade": "B",
+        "School": "Colon, Lam and Smith",
+        "Enrollment Date": "2022-04-21",
+        "Attendance": "93%"
+    },
+    {
+        "Student Name": "Anthony Griffin",
+        "Age": 16,
+        "Grade": "A",
+        "School": "Jones, Perry and King",
+        "Enrollment Date": "2020-04-10",
+        "Attendance": "85%"
+    },
+    {
+        "Student Name": "Jeffrey Wagner",
+        "Age": 8,
+        "Grade": "A",
+        "School": "Stephenson, Meza and Carroll",
+        "Enrollment Date": "2022-02-10",
+        "Attendance": "97%"
+    },
+    {
+        "Student Name": "Christopher Morales",
+        "Age": 16,
+        "Grade": "B",
+        "School": "Anderson LLC",
+        "Enrollment Date": "2023-08-29",
+        "Attendance": "82%"
+    },
+    {
+        "Student Name": "Derrick Patrick",
+        "Age": 7,
+        "Grade": "F",
+        "School": "Suarez, Contreras and Silva",
+        "Enrollment Date": "2023-03-11",
+        "Attendance": "99%"
+    },
+    {
+        "Student Name": "Frances Burton",
+        "Age": 11,
+        "Grade": "A",
+        "School": "Wright LLC",
+        "Enrollment Date": "2021-01-05",
+        "Attendance": "89%"
+    },
+    {
+        "Student Name": "Cassandra Griffin",
+        "Age": 16,
+        "Grade": "D",
+        "School": "Fletcher-Davenport",
+        "Enrollment Date": "2020-08-25",
+        "Attendance": "97%"
+    },
+    {
+        "Student Name": "Olivia Mcintyre",
+        "Age": 13,
+        "Grade": "D",
+        "School": "Berry, Shepherd and Glover",
+        "Enrollment Date": "2020-03-10",
+        "Attendance": "98%"
+    },
+    {
+        "Student Name": "Ian Combs",
+        "Age": 6,
+        "Grade": "B",
+        "School": "Mays and Sons",
+        "Enrollment Date": "2022-06-07",
+        "Attendance": "81%"
+    },
+    {
+        "Student Name": "Cristina Olson",
+        "Age": 8,
+        "Grade": "C",
+        "School": "Hinton, Smith and Howard",
+        "Enrollment Date": "2022-05-14",
+        "Attendance": "83%"
+    },
+    {
+        "Student Name": "Stacy Lawrence",
+        "Age": 17,
+        "Grade": "D",
+        "School": "Sanders, Gardner and Wilkins",
+        "Enrollment Date": "2023-10-10",
+        "Attendance": "91%"
+    },
+    {
+        "Student Name": "Danielle White DVM",
+        "Age": 13,
+        "Grade": "C",
+        "School": "Webster Inc",
+        "Enrollment Date": "2023-08-29",
+        "Attendance": "82%"
+    },
+    {
+        "Student Name": "Melissa Warren",
+        "Age": 15,
+        "Grade": "B",
+        "School": "Olsen-Ryan",
+        "Enrollment Date": "2020-06-16",
+        "Attendance": "82%"
+    },
+    {
+        "Student Name": "Martin Thomas",
+        "Age": 12,
+        "Grade": "C",
+        "School": "Price, Richardson and Ray",
+        "Enrollment Date": "2020-08-13",
+        "Attendance": "90%"
+    },
+    {
+        "Student Name": "Jonathan Patterson",
+        "Age": 14,
+        "Grade": "B",
+        "School": "Fitzgerald-Baker",
+        "Enrollment Date": "2023-01-09",
+        "Attendance": "90%"
+    },
+    {
+        "Student Name": "Kyle Wright",
+        "Age": 18,
+        "Grade": "B",
+        "School": "Coleman Ltd",
+        "Enrollment Date": "2021-08-13",
+        "Attendance": "97%"
+    },
+    {
+        "Student Name": "Kimberly Steele",
+        "Age": 7,
+        "Grade": "B",
+        "School": "Williams-Ryan",
+        "Enrollment Date": "2020-08-21",
+        "Attendance": "100%"
+    },
+    {
+        "Student Name": "James Miranda",
+        "Age": 8,
+        "Grade": "A",
+        "School": "Wilson, Stout and Peterson",
+        "Enrollment Date": "2021-12-11",
+        "Attendance": "87%"
+    },
+    {
+        "Student Name": "Michael Brown",
+        "Age": 7,
+        "Grade": "A",
+        "School": "Campbell-Stevens",
+        "Enrollment Date": "2021-11-12",
+        "Attendance": "100%"
+    }
+]
